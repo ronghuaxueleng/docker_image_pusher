@@ -1,4 +1,3 @@
-ronghuaxueleng/qinglong
 ronghuaxueleng/qinglong:python3.10
 ronghuaxueleng/jrtt
 ronghuaxueleng/mitmproxy
