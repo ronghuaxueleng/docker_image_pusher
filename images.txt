@@ -4,3 +4,4 @@ ronghuaxueleng/mitmproxy
 ronghuaxueleng/jd
 ronghuaxueleng/mitmproxy-nodejs
 ronghuaxueleng/vsftpd
+centralx/clash
