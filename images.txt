@@ -4,8 +4,4 @@ ronghuaxueleng/mitmproxy
 ronghuaxueleng/jd
 ronghuaxueleng/mitmproxy-nodejs
 ronghuaxueleng/vsftpd
-centralx/clash
-i36lib/clashx:arm64-latest
-i36lib/clashx:amd64-latest
-i36lib/clashx:premium-amd64-latest
-i36lib/clashx:premium-arm64-latest
+ronghuaxueleng/clash
