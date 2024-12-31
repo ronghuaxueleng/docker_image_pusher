@@ -5,3 +5,4 @@ ronghuaxueleng/jd
 ronghuaxueleng/mitmproxy-nodejs
 ronghuaxueleng/vsftpd
 centralx/clash
+i36lib/clashx
