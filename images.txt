@@ -5,3 +5,5 @@ ronghuaxueleng/jd
 ronghuaxueleng/mitmproxy-nodejs
 ronghuaxueleng/vsftpd
 ronghuaxueleng/clash
+registry.cn-shenzhen.aliyuncs.com/mogublog_business/frpc
+registry.cn-shenzhen.aliyuncs.com/mogublog_business/frps
