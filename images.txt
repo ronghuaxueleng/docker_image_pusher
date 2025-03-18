@@ -1,3 +1,4 @@
+ghcr.io/jiuz-chn/cursor-to-openai:latest
 ronghuaxueleng/qinglong:python3.10
 ronghuaxueleng/jrtt:latest
 ronghuaxueleng/jrtt:mitmproxy8.1.1
