@@ -1,4 +1,4 @@
-node:lts-alpine
+ghcr.io/bincooo/chatgpt-adapter:latest
 ronghuaxueleng/qinglong:python3.10
 ronghuaxueleng/jrtt:latest
 ronghuaxueleng/jrtt:mitmproxy8.1.1
