@@ -1,3 +1,4 @@
+ronghuaxueleng/python-nodejs
 ghcr.io/bincooo/chatgpt-adapter:latest
 ronghuaxueleng/qinglong:python3.10
 ronghuaxueleng/jrtt:latest
