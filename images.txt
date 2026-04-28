@@ -1,3 +1,4 @@
+ghcr.io/xiechengqi/cc-switch:latest
 johngong/baidunetdisk:latest
 ronghuaxueleng/python-nodejs
 ghcr.io/bincooo/chatgpt-adapter:latest
