@@ -1,7 +1,5 @@
-ghcr.io/xiechengqi/cc-switch:latest
-johngong/baidunetdisk:latest
+ghcr.io/icebear0828/codex-proxy
 ronghuaxueleng/python-nodejs
-ghcr.io/bincooo/chatgpt-adapter:latest
 ronghuaxueleng/qinglong:python3.10
 ronghuaxueleng/jrtt:latest
 ronghuaxueleng/jrtt:mitmproxy8.1.1
@@ -17,6 +15,5 @@ ronghuaxueleng/mitmproxy-nodejs:6.0.2-17.0.1
 ronghuaxueleng/mitmproxy-nodejs:7.0.4-17.0.1
 ronghuaxueleng/vsftpd
 ronghuaxueleng/clash
-ronghuaxueleng/cursor-api
 registry.cn-shenzhen.aliyuncs.com/mogublog_business/frpc
 registry.cn-shenzhen.aliyuncs.com/mogublog_business/frps
