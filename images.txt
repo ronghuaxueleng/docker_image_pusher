@@ -1,4 +1,4 @@
-ghcr.io/icebear0828/codex-proxy
+ghcr.io/resinat/resin
 ronghuaxueleng/python-nodejs
 ronghuaxueleng/qinglong:python3.10
 ronghuaxueleng/jrtt:latest
